@@ -20,7 +20,7 @@ steps:
   inputs:
     awsCredentials: exams
     regionName: 'us-east-1'
-    filePath: '$(System.DefaultWorkingDirectory)/Ridhima1992.devopsexam (1)'
+    filePath: '$(System.DefaultWorkingDirectory)/Ridhima1992.devopsexam (1)/EnvironmentSetup.ps1'
 - task: MFelling.AWSS3Upload.custom-build-task.S3Upload@0
   displayName: 'Upload file to S3 bucket'
   inputs:
