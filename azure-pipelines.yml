@@ -27,4 +27,10 @@ steps:
     awsCommand: s3
     awsArguments: 's3://devopsexam/ --recursive'
     failOnStandardError: false
+- task: AmazonWebServices.aws-vsts-tools.AWSPowerShellModuleScript.AWSPowerShellModuleScript@1
+  displayName: 'AWS Tools for Windows PowerShell Script: '
+  inputs:
+    awsCredentials: exams
+    regionName: 'us-east-1'
+    filePath: '$(System.DefaultWorkingDirectory)/Ridhima1992.devopsexam (1)'
 
