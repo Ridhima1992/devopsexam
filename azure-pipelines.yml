@@ -19,3 +19,12 @@ steps:
   displayName: 'Upload file to S3 bucket'
   inputs:
     BucketName: devopsexam
+- task: AmazonWebServices.aws-vsts-tools.AWSCLI.AWSCLI@1
+  displayName: 'AWS CLI: s3'
+  inputs:
+    awsCredentials: exam
+    regionName: 'us-east-1'
+    awsCommand: s3
+    awsArguments: 's3://devopsexam/ --recursive'
+    failOnStandardError: false
+
