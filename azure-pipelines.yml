@@ -15,10 +15,6 @@ variables:
 steps:
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
-- task: MFelling.AWSS3Upload.custom-build-task.S3Upload@0
-  displayName: 'Upload file to S3 bucket'
-  inputs:
-    BucketName: devopsexam
 - task: AmazonWebServices.aws-vsts-tools.AWSCLI.AWSCLI@1
   displayName: 'AWS CLI: s3'
   inputs:
@@ -33,4 +29,9 @@ steps:
     awsCredentials: exams
     regionName: 'us-east-1'
     filePath: '$(System.DefaultWorkingDirectory)/Ridhima1992.devopsexam (1)'
+- task: MFelling.AWSS3Upload.custom-build-task.S3Upload@0
+  displayName: 'Upload file to S3 bucket'
+  inputs:
+    BucketName: devopsexam
+
 
