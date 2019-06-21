@@ -1,0 +1,12 @@
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Song2
+--content-root=C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2
+--file=C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\Pages\About.cshtml
+--file=C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\Pages\Contact.cshtml
+--file=C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\Pages\Error.cshtml
+--file=C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\Pages\Index.cshtml
+--file=C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\Pages\_Layout.cshtml
+--file=C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\Pages\_ViewImports.cshtml
+--file=C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\Pages\_ViewStart.cshtml

@@ -1,0 +1,11 @@
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\bin\Debug\netcoreapp2.0\Song2.deps.json
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\bin\Debug\netcoreapp2.0\Song2.runtimeconfig.json
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\bin\Debug\netcoreapp2.0\Song2.runtimeconfig.dev.json
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\bin\Debug\netcoreapp2.0\Song2.dll
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\bin\Debug\netcoreapp2.0\Song2.pdb
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\obj\Debug\netcoreapp2.0\Song2.csprojResolveAssemblyReference.cache
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\obj\Debug\netcoreapp2.0\Song2.csproj.CoreCompileInputs.cache
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\obj\Debug\netcoreapp2.0\Song2.AssemblyInfoInputs.cache
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\obj\Debug\netcoreapp2.0\Song2.AssemblyInfo.cs
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\obj\Debug\netcoreapp2.0\Song2.dll
+C:\Users\sawhn\OneDrive\Desktop\DevOps\Song2\Song2\obj\Debug\netcoreapp2.0\Song2.pdb
